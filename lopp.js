@@ -6,3 +6,5 @@ console.log("hello sathish")
 //welcome to coding world
 
 //commentd1]
+
+// commit 2
