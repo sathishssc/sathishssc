@@ -8,3 +8,4 @@ console.log("hello sathish")
 //commentd1]
 
 // commit 2
+//comment 3rd added amed
